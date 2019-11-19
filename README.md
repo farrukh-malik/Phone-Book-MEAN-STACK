@@ -4,3 +4,9 @@
 
 ### Built With:
 - Angular 8
+
+## Backend
+#### Command
+- npm install express --save
+- npm i mysql --save
+- npm i body-parser
