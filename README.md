@@ -4,6 +4,8 @@
 
 ### Built With:
 - Angular 8
+- Node
+- Express
 
 ## Backend
 #### Command
